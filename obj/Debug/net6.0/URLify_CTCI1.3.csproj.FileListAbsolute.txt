@@ -1,0 +1,15 @@
+/home/ppari/Repos/URLify_CTCI1.3/bin/Debug/net6.0/URLify_CTCI1.3
+/home/ppari/Repos/URLify_CTCI1.3/bin/Debug/net6.0/URLify_CTCI1.3.deps.json
+/home/ppari/Repos/URLify_CTCI1.3/bin/Debug/net6.0/URLify_CTCI1.3.runtimeconfig.json
+/home/ppari/Repos/URLify_CTCI1.3/bin/Debug/net6.0/URLify_CTCI1.3.dll
+/home/ppari/Repos/URLify_CTCI1.3/bin/Debug/net6.0/URLify_CTCI1.3.pdb
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.csproj.AssemblyReference.cache
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.AssemblyInfoInputs.cache
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.AssemblyInfo.cs
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.csproj.CoreCompileInputs.cache
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.dll
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/refint/URLify_CTCI1.3.dll
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.pdb
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/URLify_CTCI1.3.genruntimeconfig.cache
+/home/ppari/Repos/URLify_CTCI1.3/obj/Debug/net6.0/ref/URLify_CTCI1.3.dll

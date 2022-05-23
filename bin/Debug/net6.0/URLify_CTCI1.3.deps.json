@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "URLify_CTCI1.3/1.0.0": {
+        "runtime": {
+          "URLify_CTCI1.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URLify_CTCI1.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
